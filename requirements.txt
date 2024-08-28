@@ -1,0 +1,8 @@
+﻿Flask==2.0.3
+numpy==2.1.0
+opencv-python-headless==4.5.5.64
+transformers==4.29.2
+tokenizers==0.13.3
+Gunicorn
+
+
